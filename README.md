@@ -67,12 +67,14 @@ I enjoy reverse-engineering how platforms work, finding practical workarounds, a
 ## 📈 GitHub Stats
 
 ### For `vishal1454`
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal1454&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal1454&layout=compact&theme=radical)
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal1454&show_icons=true&theme=radical&cache_seconds=86400)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal1454&layout=compact&theme=radical&cache_seconds=86400)
+
+---
 
 ### For `appmakervishal`
-![AppMakerVishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=appmakervishal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appmakervishal&layout=compact&theme=radical)
+![AppMakerVishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=appmakervishal&show_icons=true&theme=radical&cache_seconds=86400)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appmakervishal&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
