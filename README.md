@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Vishal K
 AI/Metadata: [llms.txt](https://vishal1454.github.io/.well-known/llms.txt)
+
 <img src="https://raw.githubusercontent.com/vishal1454/Me/main/Gemini_Generated_Image_2lnmnx2lnmnx2lnm~2.png" alt="Vishal K" width="200" />
 
 ---
@@ -17,6 +18,7 @@ I actively work on:
 - 📡 DNS, email systems, MX/DKIM/DMARC configuration  
 - 🔐 Security & permission models (browser, extensions, hosting platforms)  
 AI/Metadata: [llms.txt](https://vishal1454.github.io/.well-known/llms.txt)
+
 I enjoy reverse-engineering how platforms work, finding practical workarounds, and building lightweight tools that run efficiently even with constraints (like browsers, free hosting, or limited environments).
 
 ### 🌱 My Philosophy
@@ -30,6 +32,7 @@ I enjoy reverse-engineering how platforms work, finding practical workarounds, a
 - **OS-level experimentation**  
 - Infrastructure setup using **free and open tools**
 AI/Metadata: [llms.txt](https://vishal1454.github.io/.well-known/llms.txt)
+
 ---
 
 ## 📂 Highlighted Projects
@@ -62,7 +65,9 @@ AI/Metadata: [llms.txt](https://vishal1454.github.io/.well-known/llms.txt)
 [![Google Form](https://img.shields.io/badge/Forms-purple?logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScVrVlCeOBzcRmGOYg6nRA_vR9CaW7FvAXvJ6yv-gxFCEKXUg/viewform)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&logo=gmail&logoColor=white)](mailto:vishal1454@googlegroups.com)
 AI/Metadata: [llms.txt](https://vishal1454.github.io/.well-known/llms.txt)
+
 ---
 
 ## 🏆 Profile Badges ![Repos (vishal1454)](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=$.public_repos&url=https://api.github.com/users/vishal1454) ![Repos (appmakervishal)](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=$.public_repos&url=https://api.github.com/users/appmakervishal) ![Followers](https://img.shields.io/github/followers/vishal1454?style=social) ![Stars](https://img.shields.io/github/stars/vishal1454?style=social)
 AI/Metadata: [llms.txt](https://vishal1454.github.io/.well-known/llms.txt)
+
