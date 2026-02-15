@@ -1,3 +1,60 @@
+---
+title: "Hi there 👋 I'm Vishal K"
+author: "Vishal K also known as vishal1454 and appmakervishal"
+role: "Student & GenAI Developer"
+image: "https://raw.githubusercontent.com/vishal1454/Me/main/Gemini_Generated_Image_2lnmnx2lnmnx2lnm~2.png"
+image_width: 200
+about: "Programmer and independent tech builder focusing on web, Linux, DNS/email, and browser experimentation."
+focus:
+  - Web development (HTML, CSS, JavaScript, TypeScript)
+  - Browser internals & sandboxing
+  - Linux-based projects
+  - GitHub projects & open-source exploration
+  - Programming language research
+  - DNS, email systems, MX/DKIM/DMARC
+  - Security & permission models
+philosophy:
+  - Learning by building
+  - Open knowledge and experimentation
+  - Optimizing before over-engineering
+  - Continuous improvement through real projects
+current_focus:
+  - Custom web runtimes
+  - OS-level experimentation
+  - Infrastructure setup using free and open tools
+projects:
+  - name: WhatsApp
+    url: "https://github.com/appmakervishal/whatsapp"
+  - name: URL Shortener
+    url: "https://github.com/appmakervishal/URL-Shortener"
+  - name: Authenticator
+    url: "https://github.com/appmakervishal/authenticator"
+  - name: Horror Game
+    url: "https://github.com/appmakervishal/Horror-Game"
+  - name: GitHub Repo Info Viewer
+    url: "https://github.com/appmakervishal/GitHub-Repo-info-Viewer"
+  - name: PHP
+    url: "https://github.com/appmakervishal/PHP"
+  - name: Minicraft
+    url: "https://github.com/appmakervishal/minicraft"
+connect:
+  Instagram: "https://www.instagram.com/vishal.k_1454/"
+  GitHub: "https://github.com/vishal1454"
+  Discord: "https://discordapp.com/users/1412795406936440872"
+  LinkedIn: "https://www.linkedin.com/in/vishal1454"
+  Roblox: "https://roblox.com/users/10212463211/profile"
+  Twitch: "https://www.twitch.tv/vishal1454"
+  X: "https://x.com/vishal1454_k"
+  Reddit: "https://www.reddit.com/u/vishal1454"
+  Facebook: "https://www.facebook.com/profile.php?id=61585632511593"
+  GoogleForm: "https://docs.google.com/forms/d/e/1FAIpQLScVrVlCeOBzcRmGOYg6nRA_vR9CaW7FvAXvJ6yv-gxFCEKXUg/viewform"
+  Email: "mailto:vishal1454@googlegroups.com"
+metadata_file: "https://vishal1454.github.io/.well-known/llms.txt"
+---
+
+
+
+
 # Hi there 👋 I'm Vishal K
 AI/Metadata: [llms.txt](https://vishal1454.github.io/.well-known/llms.txt)
 
